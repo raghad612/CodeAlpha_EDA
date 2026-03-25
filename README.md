@@ -45,6 +45,7 @@ Tools: Python, Pandas, Matplotlib | Platform: Google Colab (cloud-based)
 | 🥇 | United Kingdom | 7,308,391.55 |
 | 🥈 | Netherlands | 285,446.34 |
 | 🥉 | EIRE | 265,545.90 |
+![Country Revenue Chart](country_revenue_chart.png)
 
 ## 💡 Business Recommendations
 1. **Inventory**: Stock decorative items (high frequency) + premium baskets (high value)
